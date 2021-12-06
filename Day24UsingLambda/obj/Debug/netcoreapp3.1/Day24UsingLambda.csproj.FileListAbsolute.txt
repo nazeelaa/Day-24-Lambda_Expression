@@ -1,0 +1,14 @@
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.exe
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.deps.json
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.runtimeconfig.json
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.runtimeconfig.dev.json
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.dll
+E:\vs\Day24UsingLambda\bin\Debug\netcoreapp3.1\Day24UsingLambda.pdb
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.csproj.AssemblyReference.cache
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.AssemblyInfoInputs.cache
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.AssemblyInfo.cs
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.csproj.CoreCompileInputs.cache
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.dll
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.pdb
+E:\vs\Day24UsingLambda\obj\Debug\netcoreapp3.1\Day24UsingLambda.genruntimeconfig.cache
